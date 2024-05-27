@@ -127,6 +127,12 @@ DataLens](https://datalens.yandex.ru/) и создать новое подклю
 Ссылка на дашборд:
 https://datalens.yandex.cloud/l4or60lck81y9-perov-dashboard
 
+``` r
+sprintf("Done")
+```
+
+    [1] "Done"
+
 ## Оценка результатов
 
 В ходе практической работы был проведен анализ сетевой активности с
